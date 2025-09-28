@@ -145,7 +145,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-text-transform: capitalize;
+/*text-transform: capitalize;*/
 }
 
 .portfolio-name {
@@ -166,8 +166,9 @@ color: #434455;
 
 
 .page-footer {
-    background-color: #2e2f42;
+background-color: #2e2f42;
 }
+
 .footer-info {
 font-weight: 400;
 font-size: 16px;
