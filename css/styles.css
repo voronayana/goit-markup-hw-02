@@ -116,7 +116,8 @@ text-transform: capitalize;}*/
 background: #fff; 
 }
 
-.team-name {
+/*.team-name*/
+h3 {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -125,7 +126,8 @@ text-align: center;
 color: #2e2f42;
 }
 
-.team-text {
+/*.team-text*/ 
+p {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -149,7 +151,7 @@ color: #2e2f42;
 text-transform: capitalize;
 }
 
-.portfolio-name {
+/*.portfolio-name {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -163,7 +165,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-}
+}*/
 
 
 .page-footer {
