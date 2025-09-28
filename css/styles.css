@@ -42,7 +42,6 @@ text-align: center;
 color: #fff;
 }
 .main-btn {
-
 background: #4d5ae5;
 color: #fff;
 font-family: "Roboto", sans-serif;
@@ -103,14 +102,15 @@ color: #434455;
 .page-team {
 background: #f4f4fd;
 }
-.team-title {
+
+/*.team-title {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-text-transform: capitalize;}
+text-transform: capitalize;}*/
 
 .team-list {
 background: #fff; 
@@ -138,7 +138,8 @@ color: #434455;
 background: #fff;
 }
 
-.portfolio-title {
+/*.portfolio-title*/
+h2 {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
