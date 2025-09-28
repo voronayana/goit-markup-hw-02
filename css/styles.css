@@ -30,6 +30,27 @@ color: #4d5ae5;
     color: #f4f4fd;
 }
 
+.main-title {
+    background-color: #2e2f42;
+}
+.main-text {
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.main-btn {
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+color: #fff;
+}
+.main-btn:hover {
+background: #404bbf;
+}
+
+
 .nav-link {
 font-weight: 500;
 font-size: 16px;
@@ -53,6 +74,40 @@ font-style: normal;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+color: #434455;
+}
+
+.page-team {
+background: #f4f4fd;
+}
+.team-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42
+}
+.team-list {
+box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+background: #fff; 
+}
+
+.team-name {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.team-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
 color: #434455;
 }
 
