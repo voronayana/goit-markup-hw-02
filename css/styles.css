@@ -137,6 +137,16 @@ color: #434455;
 .portfolio-item {
 background: #fff;
 }
+
+.portfolio-title{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
 .portfolio-name {
 font-weight: 500;
 font-size: 20px;
