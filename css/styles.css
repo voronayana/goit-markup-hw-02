@@ -113,12 +113,12 @@ color: #434455;
 background: #f4f4fd;
 }
 
-.team-title 
+.team-title,
 .team-text {
 text-align: center;
 }
 
-.team-title 
+.team-title,
 .portfolio-title
 {
 font-weight: 700;
@@ -163,7 +163,7 @@ color: #2e2f42;
 text-transform: capitalize;
 }*/
 
-.portfolio-name
+.portfolio-name, 
 .team-text {
 font-weight: 500;
 font-size: 20px;
