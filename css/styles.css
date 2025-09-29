@@ -130,8 +130,7 @@ text-transform: capitalize;}*/
 background: #fff; 
 }
 
-/*.team-name*/
-h3 {
+.team-name {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
